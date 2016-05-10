@@ -1,0 +1,10 @@
+.container {
+  background-color: indigo; }
+  .container .row {
+    background-color: blue; }
+    .container .row .col-md-4 {
+      background-color: yellow; }
+      .container .row .col-md-4 section {
+        background-color: #FF0080; }
+
+/*# sourceMappingURL=estilo.css.map */

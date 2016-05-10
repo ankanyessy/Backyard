@@ -1,0 +1,12 @@
+.container{
+	background-color: indigo;
+	.row{
+		background-color: blue;
+		.col-md-4{
+			background-color: yellow;
+			section{
+				background-color: #FF0080;
+			}
+		}
+	}
+}
